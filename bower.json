@@ -1,0 +1,19 @@
+{
+  "name": "d3-playground",
+  "homepage": "https://github.com/JayKan/D3-Playground",
+  "authors": [
+    "Jay Kan <leicasper@gmail.com>"
+  ],
+  "description": "learning d3 fun",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
