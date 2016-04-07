@@ -343,7 +343,7 @@
   }
 
   // Generates some random data that can be used to draw pie charts.
-  function getDataForMonth() {
+  function getDataForMonth()  {
     var randomData = [];
     for (var i = 0; i < 35; i++) {
       randomData.push([Math.floor(Math.random()*100),Math.floor(Math.random()*100),Math.floor(Math.random()*100)]);
