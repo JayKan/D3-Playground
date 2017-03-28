@@ -52,7 +52,6 @@
 
   // Toggle children on click
   function onClick(d) {
-    console.log('Yay clicked on a node: ', d);
     if (d.children) {
       d._children = d.children;
       d.children = null;
